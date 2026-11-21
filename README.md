@@ -2,10 +2,6 @@
 
 Código do Projeto de Conclusão de Curso referente ao artigo **"Criptografia Adaptativa baseada em Lógica Fuzzy para Dispositivos IoT Industriais: Custo Computacional e Segurança em um Cenário CNC simulado "**.
 
-## Estrutura do projeto
-
-O repositório está organizado da seguinte maneira:
-
 
 ## Como executar o projeto
 
