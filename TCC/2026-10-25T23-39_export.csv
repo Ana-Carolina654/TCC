@@ -1,0 +1,6 @@
+﻿Tempo médio (µs),Etapa
+75.3023,AES-256 fixo (somente criptografia)
+74.58317,AES adaptativo (somente criptografia)
+3883.506335,Inferência fuzzy
+1.7990000000000004,Seleção da política
+3959.888505,Sistema adaptativo completo
